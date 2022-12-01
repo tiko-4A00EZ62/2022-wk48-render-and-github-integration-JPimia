@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "mydb.tamk.fi",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "Louis Database",
+            "database": "dbgtjapi2",
+            "username": "gtjapi"
+        }
+    ]
+}
